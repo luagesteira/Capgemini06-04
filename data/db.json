@@ -1,0 +1,22 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "descricao": "Frutas"
+        },
+        {
+            "id": 2,
+            "descricao": "Açougue"
+        },
+        {
+            "id": 3,
+            "descricao": "Material de limpeza"
+        },
+        {
+            "id": 4,
+            "descricao": "Variedades"
+        }
+    ],
+    "produtos": []
+
+}
